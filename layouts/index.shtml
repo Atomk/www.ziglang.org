@@ -24,7 +24,7 @@
               style="margin-bottom:5px"
               :text="$i18n.get('get_started')"
             ></a>
-            <span class="slogan-separator" style="font-size:.5em">
+            <span class="slogan-separator">
               <ctx :text="$i18n.get('latest_release')"></ctx>
                &nbsp;<span :text="$loop.it.key"></span>
             </span>
