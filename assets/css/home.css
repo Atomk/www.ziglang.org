@@ -17,15 +17,14 @@
   background-color: #d3d3d3;
 }
 
-.main {
+.button-main {
   background-color: #737475;
   /*border: 2px solid #F7A41D;*/
   color: #fff;
   padding: 10px 15px;
   font-size: 0.9em;
 }
-
-.button.main:hover {
+.button-main:hover {
   background-color: #7f7f7f;
   border-color: #7f7f7f;
 }

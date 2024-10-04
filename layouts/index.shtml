@@ -20,8 +20,8 @@
           <ctx :if="$loop.first">
             <a
               href="https://ziglang.org/learn/getting-started/"
-              class="button main"
               style="margin-bottom:5px"
+              class="button button-main"
               :text="$i18n.get('get_started')"
             ></a>
             <span class="slogan-separator">
